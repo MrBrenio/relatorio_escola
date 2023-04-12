@@ -1,0 +1,32 @@
+
+#tabela tr:nth-child(even) {
+    background-color: lightgray;
+    width: 100px;
+}
+
+#tabela th {
+    background-color: #f3df06;
+    color: black;
+    width: 150px;
+}
+
+#tabela td {
+    text-align: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    /* justify-content: center; */
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+}
+
+.is {
+    margin: 20px;
+}
+
